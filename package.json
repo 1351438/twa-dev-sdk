@@ -50,7 +50,7 @@
     "build": "rm -rf dist && npm run test && tsc --outDir dist/"
   },
   "dependencies": {
-    "@twa-dev-mba/types": "https://github.com/1351438/twa-dev-types/tarball/me-version",
+    "@twa-dev-mba/types": "https://github.com/1351438/twa-dev-types/tarball/me-version"
   },
   "peerDependencies": {
     "react": "^18.3.1"
