@@ -1,6 +1,6 @@
 import { FC, useEffect } from "react";
 import { BottomButtonProps, useBottomButton } from "../bottomButton";
-import { SecondaryButton as SecondaryButtonType } from "@twa-dev/types";
+import { SecondaryButton as SecondaryButtonType } from "@twa-dev-mba/types";
 import { WebApp } from "../../sdk";
 
 const secondaryButton = WebApp.SecondaryButton;
